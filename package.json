@@ -1,12 +1,9 @@
 {
-  "name": "self-driving-car-round-variation",
+  "name": "self-driving-car-ml-nn",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "description": "Self-Driving Car Neural Networks and Machine Learning with JavaScript round version",
+  "main": "main.js",
+  "devDependencies": {
+    "prettier": "^3.0.3"
+  }
 }
